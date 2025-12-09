@@ -1,6 +1,6 @@
 # NHP EV genomic analysis
 
-## ⚠️ Usage Notice
+## Usage Notice
 
 ### Specificity of the Code
 
