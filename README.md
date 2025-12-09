@@ -6,7 +6,7 @@
 
 Please note that these scripts were developed for a **specific research project** with particular:
 - Data formats
-- Taxonomic annotations (viral clades)
+- Taxonomic annotations
 - Visualization requirements
 - Analysis parameters
 
