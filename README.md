@@ -1,5 +1,8 @@
 # NHP EV genomic analysis
 
+## List of analysis sequences  
+The Excel file contains all the accession numbers, countries, and years of sampling used for the GC%, dinucleotide, and ENC analyses.  
+
 ## Usage Notice
 
 ### Specificity of the Code
