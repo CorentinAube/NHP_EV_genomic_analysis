@@ -1,5 +1,17 @@
 # NHP EV genomic analysis
 
+## Links to tanglegrams  
+- VP1 vs 2A2B  
+https://nextstrain.org/community/SimonLoriereLab/2025-12-EV-NHPs@main/VP1:community/SimonLoriereLab/2025-12-EV-NHPs@main/2A2B  
+- VP1 vs 2C  
+https://nextstrain.org/community/SimonLoriereLab/2025-12-EV-NHPs@main/VP1:community/SimonLoriereLab/2025-12-EV-NHPs@main/2C
+- VP1 vs 3A3B  
+https://nextstrain.org/community/SimonLoriereLab/2025-12-EV-NHPs@main/VP1:community/SimonLoriereLab/2025-12-EV-NHPs@main/3A3B
+- VP1 vs 3C  
+https://nextstrain.org/community/SimonLoriereLab/2025-12-EV-NHPs@main/VP1:community/SimonLoriereLab/2025-12-EV-NHPs@main/3C
+- VP1 vs 3D  
+https://nextstrain.org/community/SimonLoriereLab/2025-12-EV-NHPs@main/VP1:community/SimonLoriereLab/2025-12-EV-NHPs@main/3D  
+
 ## List of analysis sequences  
 The Excel file contains all the accession numbers, countries, and years of sampling used for the GC%, dinucleotide, and ENC analyses.  
 
