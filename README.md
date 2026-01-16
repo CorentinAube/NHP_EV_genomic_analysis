@@ -1,5 +1,8 @@
 # NHP EV genomic analysis
 
+## Link for Nextstrains interactive trees  
+https://nextstrain.org/community/SimonLoriereLab/2025-12-EV-NHPs@main  
+
 ## Links to tanglegrams  
 - VP1 vs 2A2B  
 https://nextstrain.org/community/SimonLoriereLab/2025-12-EV-NHPs@main/VP1:community/SimonLoriereLab/2025-12-EV-NHPs@main/2A2B  
