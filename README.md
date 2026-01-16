@@ -1,6 +1,6 @@
 # NHP EV genomic analysis
 
-## Link for Nextstrains interactive trees  
+## Link for Nextstrain interactive trees  
 https://nextstrain.org/community/SimonLoriereLab/2025-12-EV-NHPs@main  
 
 ## Links to tanglegrams  
